@@ -1,0 +1,19 @@
+{
+  "name": "eng-dynamics",
+  "version": "1.0.1",
+  "description": "An npm package that contains general dynamic math formulas written in JavaScript that helps in the development of engineering applications that use JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinskesuibai/eng-dynamics.git"
+  },
+  "author": "collins kesuibai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinskesuibai/eng-dynamics/issues"
+  },
+  "homepage": "https://github.com/collinskesuibai/eng-dynamics#readme"
+}

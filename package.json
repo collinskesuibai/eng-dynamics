@@ -1,6 +1,6 @@
 {
   "name": "eng-dynamics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that contains general dynamic math formulas written in JavaScript that helps in the development of engineering applications that use JavaScript.",
   "main": "index.js",
   "scripts": {

@@ -5,11 +5,11 @@ module.exports = {
   work: function(force, distance) {
     return force * distance;
   },
-  axlT: function(force, radius) {
+  axelTorque: function(force, radius) {
     return force * radius;
   },
-  engT: function(axletorque, gearRatio, efficiency) {
-    return axletorque / (gearRatio * efficiency);
+  engineTorque: function(axleTorque, gearRatio, efficiency) {
+    return axleTorque / (gearRatio * efficiency);
   },
   wheelMass: function(mass, radiusOfGyration, radius) {
     return mass * (Math.pow(radiusOfGyration / radius), 2);
